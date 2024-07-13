@@ -1,0 +1,59 @@
+{
+  "window.dialogStyle": "custom",
+  "editor.fontFamily": "CaskaydiaMono Nerd Font Mono",
+  "editor.codeLensFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "editor.experimentalInlineEdit.fontFamily": "CaskaydiaMono Nerd Font Mono",
+  "editor.inlayHints.fontFamily": "CaskaydiaMono Nerd Font Mono",
+  "editor.fontWeight": "bold",
+  "editor.fontVariations": true,
+  "editor.formatOnSave": true,
+  "workbench.settings.applyToAllProfiles": [],
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorWidth": 4,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "zenMode.centerLayout": false,
+  "zenMode.fullScreen": true,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.hideActivityBar": true,
+  "zenMode.hideStatusBar": true,
+  "zenMode.showTabs": "multiple",
+  "zenMode.restore": false,
+  "zenMode.silentNotifications": true,
+  "editor.minimap.autohide": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.suggest.insertMode": "insert",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.maxTokenizationLineLength": 2500,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "breadcrumbs.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "workbench.editor.centeredLayoutAutoResize": false,
+  "workbench.editor.centeredLayoutFixedWidth": true,
+  "workbench.iconTheme": "bearded-icons",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.fontFamily": "CaskaydiaMono Nerd Font Mono",
+  "window.menuBarVisibility": "compact",
+  "window.title": "BladeByeKirito",
+  "window.enableMenuBarMnemonics": true,
+  "workbench.colorTheme": "Material Theme Ocean",
+  "workbench.startupEditor": "none",
+  "window.titleBarStyle": "custom",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.activityBar.location": "top",
+  "window.customTitleBarVisibility": "auto",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorStyle": "block",
+  "keyboard.dispatch": "keyCode"
+}
