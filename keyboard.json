@@ -1,0 +1,7 @@
+[
+    {
+      "key": "shift+shiftright",
+      "command": "cursorEnd",
+      "when": "editorTextFocus"
+    }
+  ]
